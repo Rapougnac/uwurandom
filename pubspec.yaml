@@ -1,6 +1,6 @@
 name: uwurandom
 description: A random string generator of nonsense. Like /dev/urandom but basically better.
-version: 1.0.0
+version: 1.1.0
 repository: https://github.com/Rapougnac/uwurandom.git
 
 environment:
