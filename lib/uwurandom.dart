@@ -5,3 +5,4 @@ export 'src/catgirlnonsense.dart' show CatGirlNonSense, catGirlNonSense;
 export 'src/keysmash.dart' show KeySmash, keySmash;
 export 'src/scrunkly.dart' show Scrunkly, scrunkly;
 export 'src/nonsense.dart' show NonSense, nonSense;
+export 'src/utils/uwuifier.dart' show Uwuifier, Spaces, uwuifier;
